@@ -1,0 +1,21 @@
+[    
+     {
+        "label":"Hot",
+        "lead":"1"
+    },
+
+    {
+        "label":"Warm",
+        "lead":"2"
+    },
+    {
+        "label":"Cool",
+        "lead":"2"
+    },
+
+    {
+        "label":"Cold",
+        "lead":"4"
+    }
+
+]

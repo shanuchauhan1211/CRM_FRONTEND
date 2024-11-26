@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Jost", sans-serif;
+}
+.a{
+    background-color: green !important;
+}
+
+.tablescrollbar{
+    overflow: auto;
+}
+
+.tablescrollbar::-webkit-scrollbar{
+    width: 0;
+}
+
+.tablescrollbar::-webkit-scrollbar-thumb{
+    background-color: transparent;
+}
+

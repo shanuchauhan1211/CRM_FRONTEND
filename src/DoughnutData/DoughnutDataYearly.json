@@ -1,0 +1,24 @@
+[
+    {
+        "label":"Hot",
+        "value":"14",
+        "backgroundColor":"#FF2929"
+    },
+
+    {
+        "label":"Warm",
+        "value":"27",
+        "backgroundColor":"#29D9FF"
+    },
+    {
+        "label":"Cool",
+        "value":"54",
+        "backgroundColor":"#FFE808"
+    },
+
+    {
+        "label":"Cold",
+        "value":"65",
+        "backgroundColor":"#0F08FF"
+    }
+]

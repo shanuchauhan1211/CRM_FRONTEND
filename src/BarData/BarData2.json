@@ -1,0 +1,24 @@
+[
+    {
+        "label":"Hot",
+        "lead":"5",
+        "backgroundColor":"rgba(245, 20, 20, 0.61)"
+    },
+
+    {
+        "label":"Warm",
+        "lead":"6",
+        "backgroundColor":"rgba(228, 245, 20, 0.61)"
+    },
+    {
+        "label":"Cool",
+        "lead":"7",
+        "backgroundColor":"rgba(20, 245, 27, 0.38)"
+    },
+
+    {
+        "label":"Cold",
+        "lead":"8",
+        "backgroundColor":"rgba(20, 27, 245, 0.38)"
+    }
+]
