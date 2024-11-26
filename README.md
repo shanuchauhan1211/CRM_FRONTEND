@@ -1,9 +1,6 @@
- # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh  
+This project is named as CRM dashboard focusing on lead management functionality providing a seamless interface and management function includes Role base access control , dynamic charts , lead tables , sorting and management , accesing leads and assignment of lead by admin .The following project's is built on React js ,Node js , MongoDB. 
+The Admin Portal Consist of several page which help in management , assignment , disassignment , overveiwing , creation of new councellor account etc . 
+while councellor portal consist of two management pages of their assigned leads.
+To access Admin portal put USERNAME - virajpant@gmail.com and password - 123456
+and for councellor portal put USERNAME - shanu1211chauhan@gmail.com and password - 111111.
          
